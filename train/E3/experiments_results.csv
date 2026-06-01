@@ -1,0 +1,6 @@
+Experiment,Network,Dataset,Epoch,Accuracy,Precision,Recall,F1_Score
+E3,resnet50,dataset_original,4,0.9848,0.9885,0.9859,0.9871
+E3,resnet50,dataset_original,8,0.9413,0.9354,0.9550,0.9432
+E3,resnet50,dataset_original,12,0.9652,0.9692,0.9675,0.9681
+E3,resnet50,dataset_original,16,0.9783,0.9826,0.9806,0.9816
+E3,resnet50,dataset_original,20,0.9761,0.9796,0.9781,0.9786
