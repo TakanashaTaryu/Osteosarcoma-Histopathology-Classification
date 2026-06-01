@@ -1,0 +1,11 @@
+# Large Dataset and Output Folders
+dataset_original/
+dataset_balanced/
+train/
+results/
+
+# MATLAB Large Files
+*.mat
+
+# MATLAB Autosave
+*.asv
