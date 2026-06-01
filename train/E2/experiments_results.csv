@@ -1,0 +1,6 @@
+Experiment,Network,Dataset,Epoch,Accuracy,Precision,Recall,F1_Score
+E2,resnet18,dataset_balanced,4,0.9761,0.9800,0.9795,0.9798
+E2,resnet18,dataset_balanced,8,0.9652,0.9633,0.9711,0.9670
+E2,resnet18,dataset_balanced,12,0.9696,0.9692,0.9743,0.9716
+E2,resnet18,dataset_balanced,16,0.9587,0.9624,0.9585,0.9602
+E2,resnet18,dataset_balanced,20,0.9652,0.9699,0.9716,0.9707
