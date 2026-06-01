@@ -1,0 +1,7 @@
+Comparison,Model_A,Model_B,Mean_Difference_B_minus_A,CI_Lower,CI_Upper,Statistically_Significant,Winner
+E1 vs E2,E1,E2,-0.0037,-0.0112,0.0036,0,E1
+E1 vs E3,E1,E3,0.0037,-0.0038,0.0112,0,E3
+E1 vs E4,E1,E4,0.0018,-0.0038,0.0080,0,E4
+E2 vs E3,E2,E3,0.0072,-0.0001,0.0166,0,E3
+E2 vs E4,E2,E4,0.0052,-0.0036,0.0144,0,E4
+E3 vs E4,E3,E4,-0.0018,-0.0109,0.0057,0,E3
